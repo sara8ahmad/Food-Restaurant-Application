@@ -12,11 +12,11 @@ CSS frameworks
  ## [Live Demo](https://pizzas-website.netlify.app/)
 
  
-![Web capture_9-11-2023_145858_pizzas-website netlify app](https://github.com/sara8ahmad/Hotel-Dashboard/assets/111248837/ff91201d-fde2-4e13-bec8-95b3ac6b0064)
-![Web capture_9-11-2023_1508_pizzas-website netlify app](https://github.com/sara8ahmad/Hotel-Dashboard/assets/111248837/fc358ff2-4011-47dc-8844-7575630c0d54)
-![Web capture_9-11-2023_15033_pizzas-website netlify app](https://github.com/sara8ahmad/Hotel-Dashboard/assets/111248837/58bbea56-dd84-4ce9-acd9-e985c12b6b40)
-![Web capture_9-11-2023_1513_pizzas-website netlify app](https://github.com/sara8ahmad/Hotel-Dashboard/assets/111248837/3095a745-25af-408b-ac59-ee0e9d7d023d)
-![Web capture_9-11-2023_15147_pizzas-website netlify app](https://github.com/sara8ahmad/Hotel-Dashboard/assets/111248837/b5a8921a-6bd0-4496-9d06-3b4f51277282)
+![7](https://github.com/sara8ahmad/Next-Js-e-commerce-Project/assets/111248837/8b0bc890-2883-4507-8997-1e0761356855)
+![8](https://github.com/sara8ahmad/Next-Js-e-commerce-Project/assets/111248837/030583e3-de46-4b0b-a591-f5d78d6ef6bb)
+![10](https://github.com/sara8ahmad/Next-Js-e-commerce-Project/assets/111248837/4d74240f-e3bb-403e-a1ad-1a740cb6973f)
+![11](https://github.com/sara8ahmad/Next-Js-e-commerce-Project/assets/111248837/628678c6-5760-4510-9a94-771c8b4bb404)
+![12](https://github.com/sara8ahmad/Next-Js-e-commerce-Project/assets/111248837/747e0f6d-3d6f-461a-9498-ba3a9ad8e8e6)
 
 # Run Project Locally 
 To get started with [ Food Restaurant Application ], follow these steps:
